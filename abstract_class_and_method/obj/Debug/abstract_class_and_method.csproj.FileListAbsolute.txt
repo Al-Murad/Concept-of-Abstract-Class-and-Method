@@ -1,0 +1,7 @@
+D:\New folder (2)\Murad\abstract_class_and_method\abstract_class_and_method\abstract_class_and_method\bin\Debug\abstract_class_and_method.exe.config
+D:\New folder (2)\Murad\abstract_class_and_method\abstract_class_and_method\abstract_class_and_method\bin\Debug\abstract_class_and_method.exe
+D:\New folder (2)\Murad\abstract_class_and_method\abstract_class_and_method\abstract_class_and_method\bin\Debug\abstract_class_and_method.pdb
+D:\New folder (2)\Murad\abstract_class_and_method\abstract_class_and_method\abstract_class_and_method\obj\Debug\abstract_class_and_method.csproj.AssemblyReference.cache
+D:\New folder (2)\Murad\abstract_class_and_method\abstract_class_and_method\abstract_class_and_method\obj\Debug\abstract_class_and_method.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Murad\abstract_class_and_method\abstract_class_and_method\abstract_class_and_method\obj\Debug\abstract_class_and_method.exe
+D:\New folder (2)\Murad\abstract_class_and_method\abstract_class_and_method\abstract_class_and_method\obj\Debug\abstract_class_and_method.pdb
